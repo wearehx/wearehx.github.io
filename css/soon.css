@@ -30,6 +30,7 @@ h5 {
 	text-align: center;
 }
 .facebook-btn a {
+	font-size: 1.3rem;
 	font-style: normal;
 	font-weight: semibold;
 	color: #fff;
@@ -42,6 +43,32 @@ h5 {
 	padding-bottom: 3px;
 }
 .facebook-btn a:hover {
+	background-color: #AAA;
+	color: #fff;
+}
+.shameless-irc-plug{
+	padding-top: 1rem;
+	font-size: .7rem;
+	text-align:center;
+	font-weight: semibold;
+}
+.irc-btn-grp {
+	text-align: center;
+}
+.irc-btn-grp a {
+	font-size: .8rem;
+	font-style: normal;
+	font-weight: normal;
+	color: #fff;
+	text-decoration: none;
+	background-color: #444;
+	border: 1px solid #444;
+	padding-left: 5px;
+	padding-right:5px;
+	padding-top: 3px;
+	padding-bottom: 2px;
+}
+.irc-btn-grp a:hover {
 	background-color: #AAA;
 	color: #fff;
 }
