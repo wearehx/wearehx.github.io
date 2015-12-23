@@ -41,3 +41,7 @@ h5 {
 	padding-top: 3px;
 	padding-bottom: 3px;
 }
+.facebook-btn a:hover {
+	background-color: #AAA;
+	color: #fff;
+}
